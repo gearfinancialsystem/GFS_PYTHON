@@ -1,0 +1,15 @@
+.gitignore
+pyproject.toml
+test
+src/pygfs/__init__.py
+src/pygfs/client.py
+src/pygfs/utils.py
+src/pygfs.egg-info/PKG-INFO
+src/pygfs.egg-info/SOURCES.txt
+src/pygfs.egg-info/dependency_links.txt
+src/pygfs.egg-info/requires.txt
+src/pygfs.egg-info/top_level.txt
+src/pygfs/grpc_gen/__init__.py
+src/pygfs/grpc_gen/helloworld_pb2.py
+src/pygfs/grpc_gen/helloworld_pb2.pyi
+src/pygfs/grpc_gen/helloworld_pb2_grpc.py
